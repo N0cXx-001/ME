@@ -152,7 +152,7 @@ A multifunctional toolkit project bringing together utilities for cybersecurity 
 </table>
 
 ## `04 // MULTITOOL MODULES`
-<p>My repo is in private</p>&fontSize=22
+<p>My repo is in private</p>
 <details>
 <summary><b>01 — GENERAL TOOLS</b> · 10 entries</summary>
 
